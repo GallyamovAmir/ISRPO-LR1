@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISRPOLR1GIT", "ISRPOLR1GIT\ISRPOLR1GIT.csproj", "{B3BBDA9C-FA15-48AE-AAD7-1387FAF7EDD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3BBDA9C-FA15-48AE-AAD7-1387FAF7EDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BBDA9C-FA15-48AE-AAD7-1387FAF7EDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BBDA9C-FA15-48AE-AAD7-1387FAF7EDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BBDA9C-FA15-48AE-AAD7-1387FAF7EDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E2BE375-88C8-4E3A-A425-B7BAA5A6ABE9}
+	EndGlobalSection
+EndGlobal
